@@ -1,10 +1,10 @@
-- Computer Science Engineering graduate (B.Tech, 2026) from Faridabad, India
-- Full stack web developer: Python, JavaScript, FastAPI, Flask, React, MongoDB, PostgreSQL
-- Built VidSnap AI, a Flask-based reel generator with AI voiceovers (ElevenLabs, FFmpeg)
-- Data projects with SQL, Excel and Power BI
-- Completed the AICTE–Shell AI & Data Analytics virtual internship (Edunet Foundation)
-- Looking for an entry-level Software Developer role
+Computer Science Engineering graduate (B.Tech, 2026) from Faridabad, India, building full stack web applications.
 
+- **Backend & Core Languages:** Python, JavaScript, SQL, REST APIs
+- **Frameworks:** FastAPI, Flask, React
+- **Databases:** MongoDB, PostgreSQL
+- **Cloud:** AWS (Certified Cloud Practitioner – In Progress)
+- **Tools:** Git, GitHub, VS Code, Claude Code
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhhh_vv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shubham-verma-624b5824a) 
 
