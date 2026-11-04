@@ -1,5 +1,9 @@
-Hi, I’m Shubham Verma, a Computer Science Engineering graduate (B.Tech, 2026) from Faridabad, India. I enjoy building full stack web applications and turning ideas into working products. My main tools are Python, JavaScript, FastAPI, Flask, React, MongoDB and PostgreSQL, and I’ve worked with REST APIs and third-party API integrations. One of my projects is VidSnap AI, a Flask-based reel generator that turns images and text into vertical videos with AI voiceovers using ElevenLabs and FFmpeg. I also build data projects with SQL, Excel and Power BI, and I completed the AICTE–Shell AI & Data Analytics virtual internship with Edunet Foundation. I’m currently looking for an entry-level Software Developer role where I can learn, contribute and grow.
-
+- Computer Science Engineering graduate (B.Tech, 2026) from Faridabad, India
+- Full stack web developer: Python, JavaScript, FastAPI, Flask, React, MongoDB, PostgreSQL
+- Built VidSnap AI, a Flask-based reel generator with AI voiceovers (ElevenLabs, FFmpeg)
+- Data projects with SQL, Excel and Power BI
+- Completed the AICTE–Shell AI & Data Analytics virtual internship (Edunet Foundation)
+- Looking for an entry-level Software Developer role
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhhh_vv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shubham-verma-624b5824a) 
