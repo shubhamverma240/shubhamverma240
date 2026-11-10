@@ -3,7 +3,7 @@ Computer Science Engineering graduate (B.Tech, 2026) from Faridabad, India, buil
 - **Backend & Core Languages:** Python, JavaScript
 - **Frameworks:** FastAPI, Flask, React
 - **Databases:** MongoDB, PostgreSQL
-- **Cloud:** AWS (Certified Cloud Practitioner – In Progress)
+- **Cloud:** AWS (Certified Cloud Practitioner)
 - **Tools:** Git, GitHub, VS Code, Claude Code
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-verma-624b5824a/) 
