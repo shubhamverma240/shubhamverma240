@@ -1,6 +1,6 @@
 Computer Science Engineering graduate (B.Tech, 2026) from Faridabad, India, building full stack web applications.
 
-- **Backend & Core Languages:** Python, JavaScript, SQL, REST APIs
+- **Backend & Core Languages:** Python, JavaScript
 - **Frameworks:** FastAPI, Flask, React
 - **Databases:** MongoDB, PostgreSQL
 - **Cloud:** AWS (Certified Cloud Practitioner – In Progress)
